@@ -1,0 +1,3 @@
+document.getElementById('alertBtn').addEventListener('click', function() {
+  alert('Great job! You clicked the button and ran your first JavaScript interaction.');
+});
